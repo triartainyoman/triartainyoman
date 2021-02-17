@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
-
 ## About me
 
 I'm Triarta. A Student at [Ganesha University of Education](https://undiksha.ac.id) and also Web Developer base on Bali. Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :tea: lover. 
