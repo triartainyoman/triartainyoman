@@ -6,7 +6,6 @@
 
 I'm Triarta. A Student at [Ganesha University of Education](https://undiksha.ac.id) and also Beginner Web Developer base on Bali. :tea: lover. 
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React and Flutter
 
