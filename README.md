@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="carbon.png" alt="Hello world">
+<!-- <img src="carbon.png" alt="Hello world"> -->
 
 ## About me
 
