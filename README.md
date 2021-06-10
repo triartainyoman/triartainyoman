@@ -2,10 +2,10 @@
 
 <!-- <img src="carbon.png" alt="Hello world"> -->
 
-<!-- ## About me
+## About me
 
 I'm Triarta. A Student at [Ganesha University of Education](https://undiksha.ac.id) and also Beginner Web Developer base on Bali. :tea: lover. 
-
+<!--
 
 - 🌱 I’m currently learning React and Flutter
 
