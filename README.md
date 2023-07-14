@@ -42,7 +42,7 @@ In addition to my study and development work, I also share my knowledge and insi
 Let's connect and collaborate on exciting front-end development projects! You can reach me through the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/inyomantriarta)
-- [Twitter](https://twitter.com/triarta_)
+- [Instagram](https://www.instagram.com/developedbytri)
 - [Portfolio Website](https://www.developedbytri.netlify.app)
 
 Looking forward to creating amazing web experiences together! 😊
